@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=iammuttaqi&color=ff69b4)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iammuttaqi&card_width=330&theme=radical" />
